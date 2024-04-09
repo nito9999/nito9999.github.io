@@ -76,25 +76,25 @@
   ],
   "Videos": [
     {
-      "BlobName": "real.mp4",
-      "Title": "CoffeeVault for 2022???",
-      "Description": "REAL!??!?!",
-      "ThumbnailBlobName": "IDK.png",
-      "SourceUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+      "BlobName": "wowie.mp4",
+      "Title": "my names",
+      "Description": "lol",
+      "ThumbnailBlobName": "wowie.png",
+      "SourceUrl": "https://nito9999.github.io/Images/Images/Community/Videos/wowie.mp4"
     },
     {
-      "BlobName": "u.webm",
-      "Title": "November 15th",
-      "Description": "REAL!??!?!",
-      "ThumbnailBlobName": "IDK.png",
-      "SourceUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+      "BlobName": "ohnana.mp4",
+      "Title": "funny",
+      "Description": "cool",
+      "ThumbnailBlobName": "ohnana.png",
+      "SourceUrl": "https://www.youtube.com/watch?v="
     },
     {
-      "BlobName": "roro.mp4",
-      "Title": "shirts and pants",
-      "Description": "yes",
-      "ThumbnailBlobName": "Profile.png",
-      "SourceUrl": "https://www.youtube.com/watch?v=t0JyCdk5ymo"
+      "BlobName": "PlaceHolder.mp4",
+      "Title": "",
+      "Description": "",
+      "ThumbnailBlobName": "Placeholder.png",
+      "SourceUrl": "https://www.youtube.com/watch?v="
     }
   ]
 }
