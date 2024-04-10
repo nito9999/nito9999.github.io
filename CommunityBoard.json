@@ -1,7 +1,7 @@
 {
   "FeaturedPlayer": {
     "Id": 69,
-    "TitleOverride": "Featured Lack of Player",
+    "TitleOverride": "Featured Player",
     "UrlOverride": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
   },
   "FeaturedRoomGroup": {
@@ -10,12 +10,12 @@
       {
         "RoomName": "Crescendo",
         "RoomId": 10,
-        "ImageName": "Crescendo.png"
+        "ImageName": "Community/Fi/FullCrescendo.png"
       },
       {
         "RoomName": "Bowling",
         "RoomId": 19,
-        "ImageName": "bowling.png"
+        "ImageName": "Community/Fi/FullBowling.png"
       }
     ]
   },
