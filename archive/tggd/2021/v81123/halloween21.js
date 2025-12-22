@@ -2740,7 +2740,7 @@
         }
         ;
         Yf[Zf] = b;
-        b.src = `${""}/gen_204?atyp=i&ct=${"doodle"}&cad=${a}&zx=${Date.now()}`;
+        //b.src = `${""}/gen_204?atyp=i&ct=${"doodle"}&cad=${a}&zx=${Date.now()}`;
         Zf++
     }
     ;
@@ -17526,7 +17526,7 @@
         d = d.toString();
         a.g++;
         c(a.g);
-        return uA(d).catch(e => 1 > a.g ? a.i(2E3 * Math.pow(2, a.g - 1)).then( () => vA(a, b, c)) : Promise.reject(e)).finally( () => a.g = 0)
+        //return uA(d).catch(e => 1 > a.g ? a.i(2E3 * Math.pow(2, a.g - 1)).then( () => vA(a, b, c)) : Promise.reject(e)).finally( () => a.g = 0)
     }
     class wA {
         constructor(a) {
@@ -17551,12 +17551,12 @@
         Qg() && (a += ",impr:0");
         const b = new wf;
         b.add("async", a);
-        return vA(new xA, b, void 0, !1).then(c => {
+        /*return vA(new xA, b, void 0, !1).then(c => {
             c = new yA(c);
             !Qg() && Hd(c, 2) && (Mg = (new rf(Hd(c, 2))).g.get("ved", ""));
             !Pg() && Hd(c, 3) && (Og = Hd(c, 3))
         }
-        ).catch( () => Promise.resolve())
+        ).catch( () => Promise.resolve())*/
     }
     ;
     lh.Ua();
